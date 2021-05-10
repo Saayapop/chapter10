@@ -66,6 +66,9 @@ footer{
     }
     .step-box {
         width: 90%;
-        padding: 20px;
+        margin-bottom: 20px;
     }   
+    .step-box:last-child {
+        margin-bottom: 0%;
+    }
 }
